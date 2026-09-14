@@ -1,0 +1,19 @@
+# teleGram-OBHOd
+
+> Актуальная версия с поддержкой обхода Telegram в текущих условиях. Стабильнее, надежнее, быстрее
+
+teleGram-OBHOd возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+
+## Страницы
+- Сайт: https://wingkaisermind.github.io/teleGram-OBHOd/
+- Релиз: https://github.com/wingkaisermind/teleGram-OBHOd/releases/latest
+- Исходный код: https://github.com/wingkaisermind/teleGram-OBHOd
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировки Telegram
+- Telegram не отправляет фото
+- Telegram звонки не работают
+- zapret Telegram
+
+Windows 10/11, без VPN, бесплатно.
